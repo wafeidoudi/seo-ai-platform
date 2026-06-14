@@ -16,5 +16,5 @@ beautifulsoup4
 urllib3
 openai
 requests
-websockets.legacy
+websockets
 reportlab
