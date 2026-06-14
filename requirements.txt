@@ -13,4 +13,6 @@ dnspython
 beanie
 httpx
 beautifulsoup4
+urllib3
 openai
+requests
