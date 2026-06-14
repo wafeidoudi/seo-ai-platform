@@ -16,3 +16,4 @@ beautifulsoup4
 urllib3
 openai
 requests
+reportlab
