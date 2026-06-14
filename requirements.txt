@@ -18,3 +18,4 @@ openai
 requests
 websockets
 reportlab
+redis
